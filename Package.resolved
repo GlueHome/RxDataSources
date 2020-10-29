@@ -5,9 +5,9 @@
         "package": "RxSwift",
         "repositoryURL": "https://github.com/ReactiveX/RxSwift.git",
         "state": {
-          "branch": null,
-          "revision": "002d325b0bdee94e7882e1114af5ff4fe1e96afa",
-          "version": "5.1.1"
+          "branch": "arm32_64",
+          "revision": "e2bef7079bd7ea44e1ff15b4fd9b4d65be204737",
+          "version": null
         }
       }
     ]
